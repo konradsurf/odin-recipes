@@ -5,7 +5,23 @@
     font-family: 'Roboto', sans-serif;
 }
 
+.subHeading {
+    font-family: 'Roboto', sans-serif;
+    color:rgb(38, 38, 39);
+}
+
 .bulletList {
     color: rgb(38, 38, 39);
     font-family: 'Roboto', sans-serif;
+}
+
+.numberList{
+    color:rgb(38, 38, 39);
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+.finishedImage{
+    max-width: 100%;
+    height:auto;
 }
